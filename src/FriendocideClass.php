@@ -8,7 +8,7 @@
 *
 *  @author yourname
 */
-class InstaTools {
+class FriendocideClass {
 
    /**  @var string $m_SampleProperty define here what this variable is for, do this for every instance variable */
    private $m_SampleProperty = '';
